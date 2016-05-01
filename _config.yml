@@ -1,6 +1,6 @@
 name: H8V6.com
 favicon: null
-layout_spectrum: 0.49774
+layout_spectrum: 0.78249
 typography_spectrum: 1
 title: H8V6 Ltd.
 cta:
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#e5d2c5'
-    - '#0f0818'
-    - '#bc9c7b'
-    - '#af5117'
-    - '#a71717'
-  brandStrength: 0.6875
-  lightness: 0.625
+    - '#040404'
+    - '#b9b9b9'
+    - '#9a9a9a'
+    - '#626262'
+    - '#3c3c3c'
+  brandStrength: 0.0625
+  lightness: 0.5625
   saturation: 0.0625
-  rhythmicContrast: 0.75
+  rhythmicContrast: 0
 purpose: []
