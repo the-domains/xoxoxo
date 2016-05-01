@@ -4,7 +4,7 @@
         <description><![CDATA[xoxoxo]]></description>
         <link>https://thegrid.ai/xoxoxo/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 01 May 2016 09:06:38 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 01 May 2016 09:14:32 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/xoxoxo/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[What we do]]></title>
@@ -14,18 +14,18 @@
             <pubDate>Sun, 01 May 2016 09:04:02 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Who we are]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b5b100b9-d126-4c1b-889d-abd5bb016313.jpg">]]></description>
+            <link>https://thegrid.ai/xoxoxo/who-we-are/index.html</link>
+            <guid isPermaLink="false">884ca83b-3938-4896-be53-2bf90668e8ae</guid>
+            <pubDate>Sun, 01 May 2016 09:13:29 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Contact]]></title>
             <description><![CDATA[<p>Contact</p>]]></description>
             <link>https://thegrid.ai/xoxoxo/contact/index.html</link>
             <guid isPermaLink="false">d39c9c59-9637-41da-a278-5644e8f925d1</guid>
             <pubDate>Sun, 01 May 2016 09:06:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Who we are]]></title>
-            <description><![CDATA[<p>Who we are</p>]]></description>
-            <link>https://thegrid.ai/xoxoxo/who-we-are/index.html</link>
-            <guid isPermaLink="false">884ca83b-3938-4896-be53-2bf90668e8ae</guid>
-            <pubDate>Sun, 01 May 2016 09:06:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
