@@ -2,12 +2,13 @@ name: xoxoxo
 favicon: null
 layout_spectrum: 0.89052
 typography_spectrum: 1
+title: H8V6 Ltd. Strategy consulting
 cta:
   domain: null
   bucket: null
   version: null
 analytics:
-  google: null
+  google: UA-75145409-1
   facebook: null
   twitter: null
 opengraph:
