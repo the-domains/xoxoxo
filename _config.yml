@@ -1,4 +1,4 @@
-name: xoxoxo
+name: H8V6.com
 favicon: null
 layout_spectrum: 0.89052
 typography_spectrum: 1
@@ -23,7 +23,7 @@ color:
     - '#484848'
     - '#c9c9c9'
   brandStrength: 0.1875
-  lightness: 1
-  saturation: 0
+  lightness: 0.6875
+  saturation: 0.5
   rhythmicContrast: 1
 purpose: []
