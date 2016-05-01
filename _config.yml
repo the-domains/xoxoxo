@@ -1,6 +1,6 @@
 name: xoxoxo
 favicon: null
-layout_spectrum: 0.89443
+layout_spectrum: 1
 typography_spectrum: 1
 cta:
   domain: null
@@ -21,7 +21,7 @@ color:
     - '#29343a'
     - '#8ea0ac'
     - '#618382'
-  brandStrength: 0.8125
+  brandStrength: 0.0625
   lightness: 0.10897832503542304
   saturation: 0.05668383650481701
   rhythmicContrast: 0.8106972111854702
