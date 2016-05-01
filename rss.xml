@@ -4,15 +4,8 @@
         <description><![CDATA[xoxoxo]]></description>
         <link>https://thegrid.ai/xoxoxo/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 01 May 2016 14:01:05 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 01 May 2016 14:05:13 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/xoxoxo/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Contact]]></title>
-            <description><![CDATA[<article><h1>Contact</h1><h2>590 KINGSTON ROAD, LONDON, SW20 8DN</h2></article>]]></description>
-            <link>https://thegrid.ai/xoxoxo/contact/index.html</link>
-            <guid isPermaLink="false">d39c9c59-9637-41da-a278-5644e8f925d1</guid>
-            <pubDate>Sun, 01 May 2016 14:01:01 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Who we are]]></title>
             <description><![CDATA[<article><h1>Who we are</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b5b100b9-d126-4c1b-889d-abd5bb016313.jpg"></article>]]></description>
@@ -26,6 +19,13 @@
             <link>https://thegrid.ai/xoxoxo/what-we-do/index.html</link>
             <guid isPermaLink="false">756a69c3-dc87-4a41-8cb2-8b69e05a5804</guid>
             <pubDate>Sun, 01 May 2016 13:57:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Contact]]></title>
+            <description><![CDATA[<article><h1>Contact</h1><h2>590 KINGSTON ROAD, LONDON, SW20 8DN</h2></article>]]></description>
+            <link>https://thegrid.ai/xoxoxo/contact/index.html</link>
+            <guid isPermaLink="false">d39c9c59-9637-41da-a278-5644e8f925d1</guid>
+            <pubDate>Sun, 01 May 2016 14:05:11 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
