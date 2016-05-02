@@ -1,29 +1,41 @@
-name: H8V6.com
-favicon: null
-layout_spectrum: 0.65992
-typography_spectrum: 1
-title: null
-cta:
-  domain: null
-  bucket: null
-  version: null
 analytics:
+  twitter: null
   google: UA-75145409-1
   facebook: null
-  twitter: null
 opengraph:
   image: null
   type: null
   appId: null
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+layout_spectrum: 0.65992
+title: null
+cta:
+  bucket: null
+  version: null
+  domain: null
 color:
+  saturation: 0.25
+  brandStrength: 0.625
+  rhythmicContrast: 0.75
   brandColors:
     - '#040404'
     - '#b9b9b9'
     - '#9a9a9a'
     - '#626262'
     - '#3c3c3c'
-  brandStrength: 0.625
   lightness: 0.5625
-  saturation: 0.25
-  rhythmicContrast: 0.75
 purpose: []
+favicon: null
+name: H8V6.com
+typography_spectrum: 1
